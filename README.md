@@ -5,3 +5,4 @@
 Located on [udemy.com](https://www.udemy.com/course/github-actions/)
 
 ![First Workflow](https://github.com/githubactionscourse/course-code/actions/workflows/first-workflow.yaml/badge.svg)
+![Workflow Commands](https://github.com/githubactionscourse/course-code/actions/workflows/workflow-commands.yaml/badge.svg)
